@@ -1,86 +1,77 @@
 [
   {
-    "id": "img001",
-    "nombre": "Level 1",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(1).png",
-    "precio": 100
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img002",
-    "nombre": "Level 2",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(2).png",
-    "precio": 150
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img003",
-    "nombre": "Level 3",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(3).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img004",
-    "nombre": "Level 4",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(4).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img005",
-    "nombre": "Level 5",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(5).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img006",
-    "nombre": "Level 6",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(6).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img007",
-    "nombre": "Level 7",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(7).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img008",
-    "nombre": "Level 8",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(8).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img009",
-    "nombre": "Level 9",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(9).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img0010",
-    "nombre": "Level 10",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(10).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img0011",
-    "nombre": "Level 11",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(11).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img0012",
-    "nombre": "Level 12",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(12).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 0
   },
   {
-    "id": "img0013",
-    "nombre": "Level 13",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(13).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 1
   },
   {
-    "id": "img0014",
-    "nombre": "Level 14",
     "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(14).png",
-    "precio": 120
+    "world": 0,
+    "subWorld": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(15).png",
+    "world": 0,
+    "subWorld": 1
   }
 ]
